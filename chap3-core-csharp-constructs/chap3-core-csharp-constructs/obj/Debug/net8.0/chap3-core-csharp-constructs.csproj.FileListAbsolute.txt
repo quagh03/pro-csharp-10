@@ -1,0 +1,15 @@
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/bin/Debug/net8.0/chap3-core-csharp-constructs
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/bin/Debug/net8.0/chap3-core-csharp-constructs.deps.json
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/bin/Debug/net8.0/chap3-core-csharp-constructs.runtimeconfig.json
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/bin/Debug/net8.0/chap3-core-csharp-constructs.dll
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/bin/Debug/net8.0/chap3-core-csharp-constructs.pdb
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.AssemblyInfoInputs.cache
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.AssemblyInfo.cs
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.csproj.CoreCompileInputs.cache
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.sourcelink.json
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.dll
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/refint/chap3-core-csharp-constructs.dll
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.pdb
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/chap3-core-csharp-constructs.genruntimeconfig.cache
+/Users/huylq/Desktop/ProCSharp10/chap3-core-csharp-constructs/chap3-core-csharp-constructs/obj/Debug/net8.0/ref/chap3-core-csharp-constructs.dll

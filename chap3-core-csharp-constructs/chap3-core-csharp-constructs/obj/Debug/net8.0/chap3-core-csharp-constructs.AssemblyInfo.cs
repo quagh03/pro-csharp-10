@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chap3-core-csharp-constructs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47db0703b975677f50fff15a90223e1cb7fb5f49")]
 [assembly: System.Reflection.AssemblyProductAttribute("chap3-core-csharp-constructs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chap3-core-csharp-constructs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
